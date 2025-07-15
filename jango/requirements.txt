@@ -1,6 +1,0 @@
-Django>=4.2
-gunicorn
-dj-database-url
-django-cors-headers
-mysqlclient
-python-decouple
