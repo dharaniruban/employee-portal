@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'empApp.apps.EmpappConfig',
+    'empApp'
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
