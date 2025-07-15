@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Django>=4.2
 gunicorn
 dj-database-url
@@ -17,4 +17,4 @@ python-decouple==3.8
 sqlparse==0.4.4
 typing_extensions==4.10.0
 pymysql
->>>>>>> 38f74483a76391b0c5c08cacbf8b4c70fde3840d
+
