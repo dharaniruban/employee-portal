@@ -8,3 +8,4 @@ mysqlclient==2.2.4
 python-decouple==3.8
 sqlparse==0.4.4
 typing_extensions==4.10.0
+pymysql
